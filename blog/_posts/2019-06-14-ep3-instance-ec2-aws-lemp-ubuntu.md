@@ -12,7 +12,7 @@ Une fois connecté à votre espace **AWS Management Console** vous avez plusieur
 
 ![Amazon Web Service!](/assets/images/blog/blog-aws-ec2-tableau-de-bord.png)
 
-Vous êtes des à présent sur le **tableau de bord Amazon EC2**. Sélectionnez **« Instances »** dans le coin gauche de l’écran.
+Vous êtes dès à présent sur le **tableau de bord Amazon EC2**. Sélectionnez **« Instances »** dans le coin gauche de l’écran.
 
 Nous allons ensuite créer une **nouvelle instance EC2**. Cliquez sur le bouton **Lancer une instance**. 
 
